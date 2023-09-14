@@ -50,6 +50,10 @@ a{
 a:hover{
     color: #E4F9F5;
 }
+.land{
+	position: relative;
+	top: 4px;
+}
 .bottom-img{
     position: absolute;
     left: 300px;
